@@ -2,6 +2,8 @@
 
 Landing page desenvolvida para captura de leads, com formulário integrado a banco de dados MySQL. Projeto criado com foco em aprendizado de back-end com PHP.
 
+🌐 **Site no ar:** [nextagencypage.infinityfree.me](http://nextagencypage.infinityfree.me)
+
 ---
 
 ## 🖥️ Preview
@@ -82,3 +84,5 @@ landing-page-php-mysql/
 
 **Lorenzo Castagnetti**  
 [github.com/lorenzobraga333-cpu](https://github.com/lorenzobraga333-cpu)
+
+[def]: http://nextagencypage.infinityfree.me
