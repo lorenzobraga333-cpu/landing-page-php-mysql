@@ -1,0 +1,118 @@
+body{
+    background-color:rgb(34,34,34);
+    color: white;
+    font-family: poppinsbold;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    position: relative;
+    left: 65px;
+    margin-top: -35px;
+}
+
+#title{
+    flex-direction: column;
+    line-height: 15px;
+}
+
+li{
+    display: inline-block;
+    margin: 22px;
+}
+
+a{
+    color: white;
+    font-size: 15px;
+    font-family: poppinsmedium;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(5, 151, 49);
+    transition: 0.3s all;
+}
+
+#inscreva-btn{
+    border: 2px solid rgb(5, 151, 49);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#inscreva-btn:hover {
+    background-color:rgb(5, 151, 49);
+    color: white;
+
+}
+
+h1{
+    font-weight: 200;
+    color:rgb(5, 151, 49);
+    text-transform: uppercase;
+}
+
+h2{
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 0 0 2px #e7eeec;
+    line-height: 10px;
+    font-family: poppinsmedium;
+
+}
+
+span{
+    color: #32d88a;
+    -webkit-text-stroke: 1px #32d88a;
+     text-shadow: 0 0 10px #0e6d4d;
+}
+
+p{
+    line-height: 20px;
+    max-width: 500px;
+    font-family: poppinslight;
+}
+
+.sucesso{
+    color: rgb(5, 151, 49);
+    font-family: poppinsbold;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+
+form [type="submit"]{
+    height: 50px;
+    width: 50%;
+    background-color:rgb(5, 151, 49);
+    color: white;
+    font-weight: bold;
+}
+
+form [type="submit"]:hover{
+    cursor: pointer;
+}
+
+input{
+    padding: 10px;
+    margin-top: 20px;
+    height: 20px;
+    border-radius: 15px;
+    border: none;
+    font-size: 15px;
+     box-shadow: 0 0 5px #32d88a;
+}
