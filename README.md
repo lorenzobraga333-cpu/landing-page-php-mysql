@@ -18,7 +18,7 @@ Landing page desenvolvida para captura de leads, com formulário integrado a ban
 
 - Formulário de captura de leads
 - Armazenamento dos dados no banco de dados via PHP
-- Página de sucesso após envio do formulário
+- Mensagem de sucesso após envio do formulário
 - Layout responsivo
 
 ---
